@@ -1,2 +1,5 @@
 # Demo
-First repository
+
+First repository.
+
+Trying out git.
